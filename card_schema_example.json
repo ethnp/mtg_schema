@@ -1,0 +1,73 @@
+{
+    "name": "Ancestor's Chosen",
+    "manaCost": "{5}{W}{W}",
+    "cmc": 7,
+    "colors": [
+        "White"
+    ],
+    "colorIdentity": [
+        "W"
+    ],
+    "type": "Creature — Human Cleric",
+    "supertypes": [],
+    "types": [
+        "Creature"
+    ],
+    "subtypes": [
+        "Human",
+        "Cleric"
+    ],
+    "rarity": "Uncommon",
+    "set": "10E",
+    "setName": "Tenth Edition",
+    "text": "First strike (This creature deals combat damage before creatures without first strike.)\nWhen Ancestor's Chosen enters the battlefield, you gain 1 life for each card in your graveyard.",
+    "artist": "Pete Venters",
+    "number": "1",
+    "power": "4",
+    "toughness": "4",
+    "layout": "normal",
+    "multiverseid": 130550,
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=130550&type=card",
+    "variations": [
+        "2b5d07b5-65a5-5dba-88cc-f645e5486aaf"
+    ],
+    "rulings": [],
+    "printings": [
+        "10E",
+        "JUD",
+        "UMA"
+    ],
+    "originalText": "First strike (This creature deals combat damage before creatures without first strike.)\nWhen Ancestor's Chosen comes into play, you gain 1 life for each card in your graveyard.",
+    "originalType": "Creature - Human Cleric",
+    "legalities": [
+        {
+            "format": "1v1",
+            "legality": "Legal"
+        },
+        {
+            "format": "Commander",
+            "legality": "Legal"
+        },
+        {
+            "format": "Duel",
+            "legality": "Legal"
+        },
+        {
+            "format": "Legacy",
+            "legality": "Legal"
+        },
+        {
+            "format": "Modern",
+            "legality": "Legal"
+        },
+        {
+            "format": "Penny",
+            "legality": "Legal"
+        },
+        {
+            "format": "Vintage",
+            "legality": "Legal"
+        }
+    ],
+    "id": "a33b5d94-ecef-5941-9ece-f6f50e0f2dfd"
+}

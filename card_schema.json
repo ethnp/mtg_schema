@@ -1,0 +1,34 @@
+{
+    "name": "",
+    "manaCost": "{colorless_number}{color: can contain multiple values for color depending on card type}",
+    "cmc": 0,
+    "colors": [],
+    "colorIdentity": [],
+    "type": "",
+    "supertypes": [],
+    "types": [],
+    "subtypes": [],
+    "rarity": "",
+    "set": "",
+    "setName": "",
+    "text": "",
+    "artist": "",
+    "number": "",
+    "power": "",
+    "toughness": "",
+    "layout": "",
+    "multiverseid": 0,
+    "imageUrl": "",
+    "variations": [],
+    "rulings": [],
+    "printings": [],
+    "originalText": "",
+    "originalType": "",
+    "legalities": [
+        {
+            "format": "",
+            "legality": ""
+        }
+    ],
+    "id": ""
+}
