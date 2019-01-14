@@ -1,4 +1,5 @@
 {
+    "id": "a33b5d94-ecef-5941-9ece-f6f50e0f2dfd",
     "name": "Ancestor's Chosen",
     "manaCost": "{5}{W}{W}",
     "cmc": 7,
@@ -68,6 +69,5 @@
             "format": "Vintage",
             "legality": "Legal"
         }
-    ],
-    "id": "a33b5d94-ecef-5941-9ece-f6f50e0f2dfd"
+    ]
 }

@@ -1,4 +1,5 @@
 {
+    "id": "",
     "name": "",
     "manaCost": "{colorless_number}{color: can contain multiple values for color depending on card type}",
     "cmc": 0,
@@ -29,6 +30,5 @@
             "format": "",
             "legality": ""
         }
-    ],
-    "id": ""
+    ]
 }
