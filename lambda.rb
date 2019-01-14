@@ -25,7 +25,7 @@ apiUrl = 'https://api.magicthegathering.io/'
 #Segment of the api
 apiSegement = 'v1/cards?'
 #Params to start the script with
-apiInitialParameters = 'pageSize=3'
+apiInitialParameters = 'pageSize=10'
 #Location of the card schema
 #cardSchemaUrl = 'https://raw.githubusercontent.com/ethnp/mtg_schema/master/card_schema.json'
 #To hold  all cards in a batch
@@ -84,7 +84,9 @@ end
 
 cardsObj.each do |cards|
     cards.to_h.each do |k,v|
-        puts "#{k} => #{v}"
+        #if (k.to_s == "name" || k.to_s == "manaCost" || k.to_s == "rarity" || k.to_s == "setName")
+            puts "#{k} => #{v}"
+        #end
     end
     puts "\n"
 end
